@@ -10,5 +10,5 @@
 #--platform=linux/arm64 minio/minio:RELEASE.2023-08-04T17-40-21Z
 --platform=linux/amd64 node:18.20.3
 #openresty/openresty:1.25.3.1-4-alpine-fat
-nginx:1.26.1
+#nginx:1.26.0
 postgres:16.3
